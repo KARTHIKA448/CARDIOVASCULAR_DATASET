@@ -15,3 +15,7 @@ ABOUT THE FEATURES:
 - 'alco'        : Binary indicator of whether the individual consumes alcohol (1 for yes, 0 for no).
 - 'active'      : Binary indicator of whether the individual is physically active (1 for yes, 0 for no).
 - 'cardio'      : Binary target variable indicating the presence or absence of cardiovascular disease (1 for presence, 0 for absence).
+
+
+CONCLUSION:
+The dataset shows that about half of the subjects have cardiovascular diseases, with most being women. The majority of patients have normal cholesterol and glucose levels, with a small percentage of outliers. The majority do not consume alcohol, and regular physical activity is low. However, 48% of patients suffer from cardiovascular disease, and 51% do not have it. The majority of patients have normal weight, but 64.14% have heavy weight, which could potentially cause cardiovascular disease.
